@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Nicole Osayande, a New Graduate from Queen's University, where I studied Computer Science with a specialization in Biomedical Computing
+- 👀 I’m interested in Machine Learning, Data Science, and Algorithm Design
+- 🌱 I’m currently learning how to create my own app from scratch!
